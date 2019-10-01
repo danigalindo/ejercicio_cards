@@ -1,0 +1,29 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body> h1 {
+
+     text-align: center;
+     padding: 20px;
+
+}
+
+body> div {
+
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+    border-color: 2px black;
+    float: left;
+    padding: 30px;
+
+
+
+
+
+}
